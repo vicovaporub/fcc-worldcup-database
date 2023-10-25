@@ -15,4 +15,5 @@ The tasks for this project are:
 - All columns should have the `NOT NULL` constraint
 - The two scripts (`.sh`) files should have executable permissions
 - When `insert_data.sh` runs, it should add each unique team to the `teams` table. There should be 24 rows
-- When `insert_data.sh` runs, it should insert a row for each line in the `games.csv` file (other than the top line of the file)
+- When `insert_data.sh` runs, it should insert a row for each line in the `games.csv` file (other than the top line of the file). There should be 32 rows. Each row should have every column filled in with the appropriate info.
+- The queries in `queries.sh` file must be completed and the output must be equal to the output expected in the `expected_output.txt` file
