@@ -4,7 +4,7 @@
 
 ## There are three parts to this project: Creating the database, Inserting data, and Query the database. For that there are three files "worldcup.sql" (PostgreSQL database), "insert_data.sh" (Bash script that has commands to insert data in the database), and "games.csv" (where the data that will be passed is stored)
 
-The tasks for this project are:
+**The tasks for this project were:**
 
 - Create a database named `worldcup`
 - Create two tables in the `worldcup` database named `teams` and `games`
